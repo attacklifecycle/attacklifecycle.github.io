@@ -2,4 +2,4 @@
 
 Visit [https://attacklifecycle.github.io](https://attacklifecycle.github.io)
 
-<!-- updated 26 Nov 2019 13:48 -->
+<!-- updated 9 Dec 2019 13:48 -->
